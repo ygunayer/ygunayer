@@ -25,6 +25,7 @@ I also like to work on video games (stereotypically the reason I got into progra
 🌍 [https://yalingunayer.com](https://yalingunayer.com)  
 :octocat: [https://github.com/ygunayer](https://github.com/ygunayer) *📍you are here*  
 🐦 [https://twitter.com/ygunayer](https://twitter.com/ygunayer)
+👔 [https://www.linkedin.com/in/ygunayer/](https://www.linkedin.com/in/ygunayer/)
 
 <br />
 <br />
