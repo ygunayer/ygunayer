@@ -26,4 +26,9 @@ I also like to work on video games (stereotypically the reason I got into progra
 :octocat: [https://github.com/ygunayer](https://github.com/ygunayer) *📍you are here*  
 🐦 [https://twitter.com/ygunayer](https://twitter.com/ygunayer)
 
-<img src="https://github.com/ygunayer/ygunayer/blob/master/joe.jpg" alt="Goodbye, Joe" align="right" />
+<br />
+<br />
+<br />
+<p align="center">
+  <img src="https://github.com/ygunayer/ygunayer/blob/master/joe.jpg" alt="Goodbye, Joe" width="599" height="378" />
+</p>
