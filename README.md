@@ -1,6 +1,6 @@
-Hi! I'm Yalin, a software engineer from Izmir, Turkey.
-
 ### About
+Hi! I'm Yalin, a software engineer from Izmir, Turkey 🌊
+
 I currently work as a software crafter at [Craftbase](https://gitlab.com/craftbaseio) where I work on payment systems 💸
 
 I previously worked at [OMMA](https://github.com/signalive) where I helped build a cloud-based digital signage platform 📺, [VNGRS](https://github.com) where I helped build a ticketless parking system 🚗, albeit for a short while, and RDC Partner where I co-built an enterprise-friendly private cloud storage platform similar to Dropbox 💾
@@ -24,7 +24,7 @@ I also like to work on video games (stereotypically the reason I got into progra
 ### Contact
 🌍 [https://yalingunayer.com](https://yalingunayer.com)  
 :octocat: [https://github.com/ygunayer](https://github.com/ygunayer) *📍you are here*  
-🐦 [https://twitter.com/ygunayer](https://twitter.com/ygunayer)
+🐦 [https://twitter.com/ygunayer](https://twitter.com/ygunayer)  
 👔 [https://www.linkedin.com/in/ygunayer/](https://www.linkedin.com/in/ygunayer/)
 
 <br />
