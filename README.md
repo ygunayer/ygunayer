@@ -3,7 +3,7 @@ Hi! I'm Yalin, a software engineer from Izmir, Turkey 🌊
 
 I currently work as a software crafter at [Craftbase](https://gitlab.com/craftbaseio) where I work on payment systems 💸
 
-I previously worked at [OMMA](https://github.com/signalive) where I helped build a cloud-based digital signage platform 📺, [VNGRS](https://github.com) where I helped build a ticketless parking system 🚗, albeit for a short while, and RDC Partner where I co-built an enterprise-friendly private cloud storage platform similar to Dropbox 💾
+I previously worked at [OMMA](https://github.com/signalive) where I helped build a cloud-based digital signage platform 📺, [VNGRS](https://github.com/vngrs) where I helped build a ticketless parking system 🚗, albeit for a short while, [Emlakjet](https://github.com/emlakjet) where I helped build a real estate listings website 🏡, and RDC Partner where I co-built an enterprise-friendly private cloud storage platform similar to Dropbox 💾
 
 ### Programming Approach and Values
 I believe that all code should be as fast, sturdy, concise, and deterministic as possible, while still being open to future changes. Since [complexity has to live somewhere](https://ferd.ca/complexity-has-to-live-somewhere.html), I'm willing to sacrifice the so called "simplicity" in order to achieve it.
