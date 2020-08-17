@@ -31,5 +31,5 @@ I also like to work on video games (stereotypically the reason I got into progra
 <br />
 <br />
 <p align="center">
-  <img src="https://github.com/ygunayer/ygunayer/blob/master/joe.jpg" alt="Goodbye, Joe" width="599" height="378" />
+  <img src="https://github.com/ygunayer/ygunayer/blob/master/joe.jpg" alt="Goodbye, Joe" width="599" />
 </p>
