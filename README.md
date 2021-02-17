@@ -1,5 +1,5 @@
 ### About
-Hi! I'm Yalin, a software engineer from Izmir, Turkey 🌊
+Hi! I'm Yalin, a software engineer from Ereğli, Konya, Turkey 🍒🥕
 
 I currently work as a software crafter at [Craftbase](https://gitlab.com/craftbaseio) where I work on payment systems 💸
 
