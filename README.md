@@ -1,7 +1,7 @@
 ### About
 Hi! I'm Yalin, a software engineer from Ereğli, Konya, Turkey 🍒🥕
 
-I currently work as a software crafter at [Craftgate](https://gitlab.com/craftgate) where I work on payment systems 💸
+I currently work as a software crafter at [Craftgate](https://github.com/craftgate) where I work on payment systems 💸
 
 I previously worked at [OMMA](https://github.com/signalive) where I helped build a cloud-based digital signage platform 📺, [VNGRS](https://github.com/vngrs) where I helped build a ticketless parking system 🚗, albeit for a short while, [Emlakjet](https://github.com/emlakjet) where I helped build a real estate listings website 🏡, and RDC Partner where I co-built an enterprise-friendly private cloud storage platform similar to Dropbox 💾
 
